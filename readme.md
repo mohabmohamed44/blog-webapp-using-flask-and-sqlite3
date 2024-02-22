@@ -46,4 +46,4 @@ Visit `'/'` to see all blog posts. Click on "Create Post" to create a new blog p
 - Improved UI/UX design.
 
 ## Live URL 
-- Link: https://blog-webapp-using-flask-and-sqlite3-1.onrender.com/posts/new
+- Link: https://blog-webapp-using-flask-and-sqlite3-1.onrender.com/
