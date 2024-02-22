@@ -44,3 +44,6 @@ Visit `'/'` to see all blog posts. Click on "Create Post" to create a new blog p
 - User authentication for secure blog post management.
 - Commenting functionality for blog posts.
 - Improved UI/UX design.
+
+## Live URL 
+- Link: https://blog-webapp-using-flask-and-sqlite3-1.onrender.com/posts/new
